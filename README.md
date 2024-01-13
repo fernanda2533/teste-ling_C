@@ -1,2 +1,2 @@
-# teste-ling_C
+# teste-ling-C
 Repositório de testes de linguagem C
